@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ramonwest613
 - 👀 I’m interested in web-development and mentoring
-- 🌱 I’m currently learning modern front-end frameworks
-- 💞️ I’m looking to collaborate on full-stack web apps where I can modernize my front-end skills and mentor new back-end developers
+- 🌱 I’m currently modernizing my tech stack
+- 💞️ I’m looking for new job opportunities and side projects to collaborate on
 - 📫 How to reach me: https://www.linkedin.com/in/ramonwest/
 
 <!---
